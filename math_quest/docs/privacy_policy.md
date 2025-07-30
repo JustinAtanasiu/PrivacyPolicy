@@ -1,6 +1,6 @@
 # Privacy Policy for Math Quest
 
-**Last updated: July 22, 2025**
+**Last updated: July 30, 2025**
 
 ## Introduction
 
@@ -66,7 +66,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-[Your contact information - email address or website]
+**Developer Contact**: https://futuresoftware.io/
+**App Support**: justin@futuresoftware.io
 
 ## Compliance
 
