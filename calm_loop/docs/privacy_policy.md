@@ -96,6 +96,15 @@ For transparency, here's what we declare to app stores:
 - Background app refresh (for continuous playback)
 - Notifications (for timer alerts, optional)
 
+Our app offers in-app purchases to unlock premium content.
+All purchases are processed through Apple App Store or Google Play Store.
+We do not collect or store any payment information.
+All transactions are handled securely by Apple/Google.
+
+Purchases are non-refundable except where required by law.
+You can restore your purchases on new devices using the
+"Restore Purchases" feature in the app.
+
 ## Contact Us
 
 If you have any questions about this Privacy Policy or CalmLoop's privacy practices, please contact us at:
