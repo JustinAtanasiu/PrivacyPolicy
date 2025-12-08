@@ -1,67 +1,91 @@
-# Privacy Policy for Lexico
+# Privacy Policy for MoodSynth
 
-**Last Updated: November 29, 2025**
+**Last Updated:** December 8, 2025
 
-## Introduction
+## Overview
 
-Lexico ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+MoodSynth ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
 ## Information We Collect
 
-### Information Stored Locally
+### Information You Provide
+- **Mood Descriptions**: Text you enter to generate color palettes. This data is processed entirely on your device and is never transmitted to external servers.
+- **Saved Palettes**: Color palettes you choose to save are stored locally on your device.
 
-Lexico stores the following data locally on your device:
-- Game progress and completed puzzles
-- User preferences and settings
-- Purchase status for premium content
+### Automatically Collected Information
+- **Purchase Information**: When you make in-app purchases, Apple processes the transaction. We receive confirmation of purchases but do not have access to your payment details.
+- **Credits Balance**: Your available credits are stored locally on your device.
 
-This information is stored using your device's local storage and is not transmitted to our servers.
+## How We Use Information
 
-### In-App Purchases
+- **On-Device AI Processing**: Mood descriptions are processed using Apple's on-device Foundation Models. This processing happens entirely on your device and no data is sent to external servers.
+- **App Functionality**: Saved palettes and credits are stored locally to provide app functionality.
 
-When you make in-app purchases, the transaction is processed entirely by Apple (App Store) or Google (Play Store). We do not collect, store, or have access to your payment information. Please refer to the respective platform's privacy policy for details on how they handle payment data.
+## Data Storage
 
-## Information We Do Not Collect
+All user data is stored locally on your device:
+- Saved color palettes
+- Credit balance
+- App preferences
 
-Lexico does **not** collect:
-- Personal identification information (name, email, address)
-- Location data
-- Device identifiers for tracking purposes
-- Usage analytics or behavioral data
-- Contact information
-- Photos, media, or files
+We do not maintain external servers or databases containing your personal information.
 
 ## Third-Party Services
 
-### Apple App Store / Google Play Store
-In-app purchases are processed through the respective app stores. Their privacy policies apply to those transactions:
-- [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
-- [Google Privacy Policy](https://policies.google.com/privacy)
+### Apple Services
+- **App Store**: Handles in-app purchase transactions
+- **Apple Foundation Models**: Provides on-device AI processing
 
-### Google Fonts
-The app uses Google Fonts for typography. Fonts are bundled with the app and no requests are made to Google's servers during runtime.
+We do not integrate any third-party analytics, advertising, or tracking services.
 
-## Data Storage and Security
+## Data Sharing
 
-All game data is stored locally on your device. We do not operate servers that store your personal data. Your game progress is as secure as your device itself.
+We do not sell, trade, or otherwise transfer your information to third parties. Since all processing occurs on your device, we do not have access to your mood descriptions or generated palettes.
+
+## Data Retention
+
+All data remains on your device until you:
+- Delete the app
+- Clear app data
+- Manually delete saved palettes
 
 ## Children's Privacy
 
-Lexico does not knowingly collect any personal information from children under 13 years of age. The app is suitable for all ages and does not require any personal information to function.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+MoodSynth does not knowingly collect personal information from children under 13. The app is rated 4+ and is suitable for all ages.
 
 ## Your Rights
 
-Since we do not collect personal data, there is no personal information to access, modify, or delete. Your game data is stored locally on your device and can be removed by uninstalling the app.
+You have complete control over your data:
+- **Access**: All your data is stored on your device
+- **Delete**: Remove the app to delete all associated data
+- **Portability**: Export palettes using the share functionality
+
+## Security
+
+We prioritize your data security:
+- All AI processing occurs on-device
+- No data transmission to external servers
+- In-app purchases are secured through Apple's payment infrastructure
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
-justin@futuresoftware.io
+If you have questions about this Privacy Policy, please contact us at:
+
+**Email:** [justin@futuresoftware.io]
+**Website:** [https://futuresoftware.io/]
 
 ---
 
-This privacy policy is effective as of November 29, 2025.
+## Summary
+
+MoodSynth is designed with privacy in mind:
+- All AI processing happens on your device
+- No personal data is collected or transmitted
+- No third-party tracking or analytics
+- In-app purchases handled securely by Apple
+
+Your mood descriptions and color palettes never leave your device.
