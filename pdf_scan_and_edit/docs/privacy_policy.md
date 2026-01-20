@@ -1,15 +1,15 @@
-# Privacy Policy for PDF Scan & Edit
+# Privacy Policy for PDF Master: Scanner & Editor
 
 **Last Updated: August 18, 2025**
 
 ## Overview
 
-PDF Scan & Edit is committed to protecting your privacy. This Privacy Policy explains how our app handles your information when you use our services.
+PDF Master is committed to protecting your privacy. This Privacy Policy explains how our app handles your information when you use our services.
 
 ## Data Collection and Usage
 
 ### No Data Collection
-PDF Scan & Edit operates with a **privacy-first approach**:
+PDF Master operates with a **privacy-first approach**:
 - **No personal information is collected**
 - **No usage analytics or tracking**
 - **No account creation required**
@@ -81,7 +81,7 @@ The app requests the following permissions solely for core functionality:
 
 ## Children's Privacy
 
-PDF Scan & Edit does not collect any personal information from anyone, including children under 13. The app can be safely used by users of all ages as all processing occurs locally on the device.
+PDF Master does not collect any personal information from anyone, including children under 13. The app can be safely used by users of all ages as all processing occurs locally on the device.
 
 ## Changes to Privacy Policy
 
@@ -100,4 +100,4 @@ Since we don't collect any personal data:
 
 ---
 
-**Key Principle**: Your privacy is protected because your data never leaves your device. PDF Scan & Edit processes everything locally, ensuring your documents and personal information remain completely private and secure.
+**Key Principle**: Your privacy is protected because your data never leaves your device. PDF Master processes everything locally, ensuring your documents and personal information remain completely private and secure.
