@@ -1,12 +1,12 @@
 # Privacy Policy for Kids Art Studio
 
-**Last Updated:** December 12, 2025
+**Last Updated:** September 30, 2026
 
 ## Introduction
 
 Kids Art Studio ("we," "our," or "us") is committed to protecting the privacy of children and families. This Privacy Policy explains how we handle information when you use our mobile application ("App").
 
-Our App is designed with privacy as a core principle — **all image processing happens entirely on your device**, and we do not collect, store, or transmit any personal data to external servers.
+Our App is designed with privacy as a core principle: **we do not collect, store, or receive any personal data, drawings or pictures.** We have no servers and no accounts. Picture magic uses Apple Intelligence, which Apple provides (see "Picture Magic and Apple Intelligence" below).
 
 ## Children's Privacy (COPPA & GDPR-K Compliance)
 
@@ -21,7 +21,6 @@ Kids Art Studio is designed for children ages 4-12. We comply with:
 - Use behavioral advertising or tracking
 - Share any data with third parties
 - Include social features, chat, or communication tools
-- Allow user-generated text input for AI generation
 
 ## Information We Do NOT Collect
 
@@ -30,40 +29,48 @@ Kids Art Studio is built on a "zero data collection" model. We do not collect:
 - Names, email addresses, or contact information
 - Location data
 - Device identifiers for tracking purposes
-- Usage analytics or behavioral data
-- Photos or drawings (these remain on your device only)
+- Usage analytics or behavioral data (the App keeps a few simple counters on your device only; they are never sent anywhere)
+- Photos or drawings
 - Voice recordings
 - Any form of personal information
 
-## On-Device Processing
-
-All features of Kids Art Studio operate **entirely on your device**:
+## How the App Handles Your Child's Art
 
 ### Drawing & Creation
-- All drawings are created and stored locally on your device
-- Artwork is saved to your device's local storage only
-- No drawings are ever uploaded to external servers
+- Drawings are created and stored on your device
+- Paper drawings you scan with the camera or pick from Photos are stored on your device
+- We never upload drawings to our own servers (we have none)
 
-### AI Image Generation
-- Uses Apple Intelligence (Image Playground) which runs 100% on-device
-- Vision framework analysis happens locally on your device
-- Generated artwork is stored only in your device's local storage
-- No images are transmitted over the internet
+### Picture Magic and Apple Intelligence
+Picture magic turns a drawing into a new picture using Apple Intelligence (Image Playground), a service provided by Apple:
+- **On iOS 27 and later**, the picture is made by Apple on **Apple's Private Cloud Compute**. The drawing and the chosen look are sent to Apple's servers for that one picture. Apple states that this data is never stored or shared, even with Apple. An internet connection is needed.
+- **On iOS 26**, the picture is made on your device.
+- In both cases the drawing never reaches us, and the finished picture is saved only on your device.
+- Apple sets daily usage limits for Image Playground. They are managed by Apple.
+- Before a picture is kept, the App checks on your device that it is suitable for children. Unsuitable results are discarded.
+- See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) for how Apple handles this.
 
-### Gallery & Export
+### Stories and Read-Aloud
+- "Write the story for me" uses Apple's on-device language model. Story text stays on your device.
+- Read-aloud uses the voices installed on your device. The optional storyteller voice is downloaded from Apple's servers when a grown-up chooses to download it in Settings. Nothing about your child is sent with that download.
+
+### Gallery, Prints & Export
 - Your gallery exists only on your device
-- When you export to Photos, images are saved to your local photo library
-- Sharing is handled by your device's native share functionality
+- Prints, books and PDFs are created on your device
+- When you save to Photos, pictures go to your photo library
+- Sharing and printing use your device's own share and print features
 
 ## Third-Party Services
 
 ### Apple Services
 Kids Art Studio uses the following Apple services, which are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/):
 
-- **Apple Intelligence / Image Playground**: On-device AI for image generation
-- **Vision Framework**: On-device image analysis
-- **StoreKit**: For in-app purchases (handled entirely by Apple)
-- **Photos Framework**: For saving images to your photo library (only when you choose to export)
+- **Apple Intelligence / Image Playground**: picture magic (Private Cloud Compute on iOS 27 and later, on-device on iOS 26)
+- **Apple Intelligence / Foundation Models**: on-device story writing
+- **Vision Framework**: on-device image analysis (scanning, safety checks)
+- **Background Assets**: the optional storyteller voice download, hosted by Apple
+- **StoreKit**: in-app purchases (handled entirely by Apple)
+- **Photos and Camera**: only when you choose to scan, pick or save a picture
 
 ### No Other Third Parties
 We do not integrate with:
@@ -79,7 +86,7 @@ Kids Art Studio offers optional in-app purchases processed through Apple's App S
 
 - Purchase transactions are handled entirely by Apple
 - We do not receive or store payment information
-- We do not have access to your Apple ID or payment details
+- We do not have access to your Apple Account or payment details
 - Apple's privacy practices apply to all transactions
 
 For information about how Apple handles purchase data, please review [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
@@ -87,26 +94,31 @@ For information about how Apple handles purchase data, please review [Apple's Pr
 ## Data Storage
 
 ### Local Storage Only
-All app data is stored locally on your device:
-- Drawings and generated artwork
-- App preferences (dark mode setting, etc.)
+All app data is stored on your device:
+- Drawings, scans and magic pictures
+- Stories and books
+- App preferences (appearance, grown-up mode, etc.)
 - Purchase status (verified through Apple's StoreKit)
 
 ### No Cloud Sync
 - We do not offer cloud backup or sync features
-- Your data does not leave your device
 - If you delete the app, all locally stored data is removed
 
 ## Parental Controls
 
 ### Safe Design
-- No freeform text prompts — children can only select from curated, reviewed style presets
-- No ability to generate images of real people
+- Children choose what they drew from a picture list, or type a short word in "Something else…" (a few words at most, with a word filter)
+- Apple's Image Playground screen also lets a child change the description. Apple's own filters apply, and the App discards results that don't match the drawing or aren't suitable for children
+- Photos showing real people are not sent to picture magic
 - No social features or external communication
 - Large, kid-friendly interface designed for small hands
 
+### Grown-Up Areas
+- Settings, purchases and links out of the App are behind a grown-up puzzle
+- A grown-up can switch on "A grown-up uses this device" in Settings, which stops the puzzle on that device
+
 ### Purchase Protection
-- In-app purchases require Apple ID authentication
+- In-app purchases require Apple Account authentication
 - Parents can use Screen Time and parental controls to restrict purchases
 - We recommend enabling "Ask to Buy" for family accounts
 
@@ -130,11 +142,8 @@ Since we do not collect personal data, traditional data rights (access, deletion
 ## Device Requirements
 
 Kids Art Studio requires:
-- iOS 18.1 or later
-- A device with Apple Intelligence support (A17 Pro chip or M-series)
-- Apple Intelligence must be enabled in device settings
-
-These requirements ensure that all AI processing happens securely on-device using Apple's privacy-preserving technology.
+- iOS 26 or later
+- For picture magic: a device with Apple Intelligence support and Apple Intelligence turned on in Settings. On iOS 27 and later, picture magic also needs an internet connection
 
 ## Changes to This Privacy Policy
 
@@ -160,7 +169,7 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 | Location data | No |
 | Usage analytics | No |
 | Advertising data | No |
-| Photos/drawings | No (stored locally only) |
+| Photos/drawings | No (stored on your device; picture magic on iOS 27 uses Apple's Private Cloud Compute, which doesn't keep them) |
 | Payment information | No (handled by Apple) |
 
-**Kids Art Studio is designed to let children create magical artwork while keeping their privacy completely protected. Everything stays on your device — that's our promise.**
+**Kids Art Studio lets children create magical artwork while keeping their privacy protected. We never see your child's art.**
