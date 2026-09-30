@@ -1,16 +1,16 @@
-# Privacy Policy for Kids Art Studio
+# Privacy Policy for Fridge Door
 
 **Last Updated:** September 30, 2026
 
 ## Introduction
 
-Kids Art Studio ("we," "our," or "us") is committed to protecting the privacy of children and families. This Privacy Policy explains how we handle information when you use our mobile application ("App").
+Fridge Door ("we," "our," or "us") is committed to protecting the privacy of children and families. This Privacy Policy explains how we handle information when you use our mobile application ("App").
 
 Our App is designed with privacy as a core principle: **we do not collect, store, or receive any personal data, drawings or pictures.** We have no servers and no accounts. Picture magic uses Apple Intelligence, which Apple provides (see "Picture Magic and Apple Intelligence" below).
 
 ## Children's Privacy (COPPA & GDPR-K Compliance)
 
-Kids Art Studio is designed for children ages 4-12. We comply with:
+Fridge Door is designed for children ages 4-12. We comply with:
 - **Children's Online Privacy Protection Act (COPPA)** in the United States
 - **General Data Protection Regulation (GDPR)** provisions for children in the European Union
 - **Apple's App Store Guidelines** for kids' apps
@@ -24,7 +24,7 @@ Kids Art Studio is designed for children ages 4-12. We comply with:
 
 ## Information We Do NOT Collect
 
-Kids Art Studio is built on a "zero data collection" model. We do not collect:
+Fridge Door is built on a "zero data collection" model. We do not collect:
 
 - Names, email addresses, or contact information
 - Location data
@@ -34,7 +34,7 @@ Kids Art Studio is built on a "zero data collection" model. We do not collect:
 - Voice recordings
 - Any form of personal information
 
-## How the App Handles Your Child's Art
+## How the App Handles Your Child's Drawings
 
 ### Drawing & Creation
 - Drawings are created and stored on your device
@@ -63,7 +63,7 @@ Picture magic turns a drawing into a new picture using Apple Intelligence (Image
 ## Third-Party Services
 
 ### Apple Services
-Kids Art Studio uses the following Apple services, which are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/):
+Fridge Door uses the following Apple services, which are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/):
 
 - **Apple Intelligence / Image Playground**: picture magic (Private Cloud Compute on iOS 27 and later, on-device on iOS 26)
 - **Apple Intelligence / Foundation Models**: on-device story writing
@@ -82,7 +82,7 @@ We do not integrate with:
 
 ## In-App Purchases
 
-Kids Art Studio offers optional in-app purchases processed through Apple's App Store:
+Fridge Door offers optional in-app purchases processed through Apple's App Store:
 
 - Purchase transactions are handled entirely by Apple
 - We do not receive or store payment information
@@ -135,13 +135,13 @@ Local data on your device:
 
 Since we do not collect personal data, traditional data rights (access, deletion, portability) do not apply to our services. However:
 
-- You can delete any saved artwork directly within the app
+- You can delete any saved drawing directly within the app
 - You can delete all app data by uninstalling the app
 - You control what you export or share from the app
 
 ## Device Requirements
 
-Kids Art Studio requires:
+Fridge Door requires:
 - iOS 26 or later
 - For picture magic: a device with Apple Intelligence support and Apple Intelligence turned on in Settings. On iOS 27 and later, picture magic also needs an internet connection
 
@@ -172,4 +172,4 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 | Photos/drawings | No (stored on your device; picture magic on iOS 27 uses Apple's Private Cloud Compute, which doesn't keep them) |
 | Payment information | No (handled by Apple) |
 
-**Kids Art Studio lets children create magical artwork while keeping their privacy protected. We never see your child's art.**
+**Fridge Door lets children turn their drawings into magical pictures while keeping their privacy protected. We never see your child's drawings.**
