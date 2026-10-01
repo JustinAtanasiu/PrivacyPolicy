@@ -108,8 +108,6 @@ Questions about this policy or your privacy? Email us at
 
 ## Open-source licenses
 
-<a id="open-source-licenses"></a>
-
 Minuted includes the open-source software and models listed below. Each is used under its own licence, reproduced here.
 
 ### FluidAudio
