@@ -994,6 +994,37 @@ Creative Commons may be contacted at creativecommons.org.</pre>
 
 </details>
 
+### Speaker segmentation and embedding models (Apache-2.0)
+
+"pyannote_segmentation" and "wespeaker_v2" from "[speaker-diarization-coreml](https://huggingface.co/FluidInference/speaker-diarization-coreml)" by Fluid Inference, licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) at revision [8e69f2be](https://huggingface.co/FluidInference/speaker-diarization-coreml/tree/8e69f2be829019f647c56b77c8e722e4703365e2) (August 2025; licence text reproduced under FluidAudio above). Minuted ships these files unchanged; they are byte-identical to that revision. They are Core ML conversions by Fluid Inference of:
+
+- [pyannote/segmentation-3.0](https://huggingface.co/pyannote/segmentation-3.0) by Alexis Plaquet and Hervé Bredin (pyannote), MIT licence
+- [pyannote/wespeaker-voxceleb-resnet34-LM](https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM), the [WeSpeaker](https://github.com/wenet-e2e/wespeaker) ResNet34-LM speaker embedding model by the WeSpeaker team (Wang et al., 2023), trained on VoxCeleb, licensed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/) (licence text above). **Changes:** modified: converted to Core ML and quantized by Fluid Inference.
+
+<details><summary>MIT licence (pyannote/segmentation-3.0)</summary>
+
+<pre>MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.</pre>
+
+</details>
+
 ### Flutter and Dart packages
 
 The app is built with [Flutter](https://flutter.dev) (BSD-3-Clause, © 2014 The Flutter Authors). The Flutter engine's own third-party notices are bundled in the app. The Dart packages below are grouped by licence; open a package to read its licence.
