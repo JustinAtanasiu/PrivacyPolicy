@@ -1,17 +1,17 @@
-# Privacy Policy for Photo & Video Collage Editor
+# Privacy Policy for Collage Maker: Photo & Video
 
 **Effective Date:** July 30, 2025
 **Last Updated:** July 30, 2025
 
 ## Overview
 
-Photo & Video Collage Editor ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+Collage Maker: Photo & Video ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
-**The simple version: Photo & Video Collage Editor processes all photos and data locally on your device. We do not collect, store, or transmit any personal information or photos to external servers.**
+**The simple version: Collage Maker: Photo & Video processes all photos and data locally on your device. We do not collect, store, or transmit any personal information or photos to external servers.**
 
 ## Information We Do NOT Collect
 
-Photo & Video Collage Editor is designed with privacy by design principles:
+Collage Maker: Photo & Video is designed with privacy by design principles:
 
 - **No Personal Information**: We do not collect names, email addresses, phone numbers, or any personal identifiers
 - **No Photo Upload**: Your photos never leave your device - all processing happens locally
@@ -77,7 +77,7 @@ To provide core functionality, the app requests access to:
 ## Data Sharing and Third Parties
 
 ### No Third-Party Services
-Photo & Video Collage Editor does not integrate with or share data with:
+Collage Maker: Photo & Video does not integrate with or share data with:
 - Analytics services
 - Advertising networks
 - Social media platforms
@@ -91,7 +91,7 @@ Photo & Video Collage Editor does not integrate with or share data with:
 
 ## Children's Privacy
 
-Photo & Video Collage Editor is safe for users of all ages:
+Collage Maker: Photo & Video is safe for users of all ages:
 - We do not knowingly collect any information from children under 13
 - No personal information is collected from users of any age
 - Parents can safely allow children to use the app without privacy concerns
@@ -130,23 +130,23 @@ We may update this Privacy Policy occasionally to reflect changes in the app or 
 
 ## App Store Policies
 
-Photo & Video Collage Editor complies with:
+Collage Maker: Photo & Video complies with:
 - Apple App Store Privacy Guidelines
 - Google Play Store Privacy Requirements
 - Platform-specific data handling requirements
 
 ## Contact Information
 
-If you have questions about this Privacy Policy or Photo & Video Collage Editor's privacy practices:
+If you have questions about this Privacy Policy or Collage Maker: Photo & Video's privacy practices:
 
 **Developer Contact**: https://futuresoftware.io/
 **App Support**: justin@futuresoftware.io
 
-Since Photo & Video Collage Editor processes all data locally and collects no personal information, most privacy concerns are addressed by the app's privacy-by-design architecture.
+Since Collage Maker: Photo & Video processes all data locally and collects no personal information, most privacy concerns are addressed by the app's privacy-by-design architecture.
 
 ## Summary
 
-Photo & Video Collage Editor is built with your privacy in mind:
+Collage Maker: Photo & Video is built with your privacy in mind:
 - ✅ No data collection or tracking
 - ✅ All processing happens on your device
 - ✅ No internet connection required
