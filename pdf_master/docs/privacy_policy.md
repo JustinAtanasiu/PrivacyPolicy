@@ -1,15 +1,15 @@
-# Privacy Policy for PDF Master: Scanner & Editor
+# Privacy Policy for myPDF
 
-**Last Updated: August 18, 2025**
+**Last Updated: October 13, 2026**
 
 ## Overview
 
-PDF Master is committed to protecting your privacy. This Privacy Policy explains how our app handles your information when you use our services.
+myPDF is committed to protecting your privacy. This Privacy Policy explains how our app handles your information when you use our services.
 
 ## Data Collection and Usage
 
 ### No Data Collection
-PDF Master operates with a **privacy-first approach**:
+myPDF operates with a **privacy-first approach**:
 - **No personal information is collected**
 - **No usage analytics or tracking**
 - **No account creation required**
@@ -63,9 +63,9 @@ The app requests the following permissions solely for core functionality:
 - No cloud storage integration
 
 ### Offline Operation
-- App functions completely offline
-- No internet connection required for any features
-- Your documents never leave your device
+- The app works offline
+- No internet connection is needed, except for one feature: Chat may download its language model once. The download contains no personal data, and after it Chat runs on your device
+- Your documents and your questions never leave your device
 
 ## Security
 
@@ -81,7 +81,7 @@ The app requests the following permissions solely for core functionality:
 
 ## Children's Privacy
 
-PDF Master does not collect any personal information from anyone, including children under 13. The app can be safely used by users of all ages as all processing occurs locally on the device.
+myPDF does not collect any personal information from anyone, including children under 13. The app can be safely used by users of all ages as all processing occurs locally on the device.
 
 ## Changes to Privacy Policy
 
@@ -100,4 +100,4 @@ Since we don't collect any personal data:
 
 ---
 
-**Key Principle**: Your privacy is protected because your data never leaves your device. PDF Master processes everything locally, ensuring your documents and personal information remain completely private and secure.
+**Key Principle**: Your privacy is protected because your data never leaves your device. myPDF processes everything locally, ensuring your documents and personal information remain completely private and secure.

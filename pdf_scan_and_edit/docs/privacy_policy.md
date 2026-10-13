@@ -1,6 +1,6 @@
-# Privacy Policy for myPDF: Offline Scanner & Edit
+# Privacy Policy for myPDF
 
-**Last Updated: August 18, 2025**
+**Last Updated: October 13, 2026**
 
 ## Overview
 
@@ -63,9 +63,9 @@ The app requests the following permissions solely for core functionality:
 - No cloud storage integration
 
 ### Offline Operation
-- App functions completely offline
-- No internet connection required for any features
-- Your documents never leave your device
+- The app works offline
+- No internet connection is needed, except for one feature: Chat may download its language model once. The download contains no personal data, and after it Chat runs on your device
+- Your documents and your questions never leave your device
 
 ## Security
 
