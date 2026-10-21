@@ -11,7 +11,6 @@ myPDF is committed to protecting your privacy. This Privacy Policy explains how 
 ### No Data Collection
 myPDF operates with a **privacy-first approach**:
 - **No personal information is collected**
-- **No usage analytics or tracking**
 - **No account creation required**
 - **No data transmission to external servers**
 
@@ -57,7 +56,6 @@ The app requests the following permissions solely for core functionality:
 ## Third-Party Services
 
 ### No External Services
-- No analytics services (Google Analytics, Firebase, etc.)
 - No advertising networks
 - No crash reporting services
 - No cloud storage integration
