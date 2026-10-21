@@ -5,7 +5,7 @@ description: Privacy policy for FaceMend, the private on-device face and photo e
 
 # FaceMend — Privacy Policy
 
-_Last updated: 7 July 2026_
+_Last updated: 21 October 2026_
 
 FaceMend edits your photos on your device. Your photos never leave your phone. There is no
 FaceMend account, no FaceMend server, and nothing you edit is uploaded to us or anyone else.
@@ -94,6 +94,44 @@ from us.
 FaceMend is a general-audience photo editor and is not directed to children under 13. As the
 app collects no data, no data from children is sent to us in any case.
 
+## FaceMend on Android (Google Play)
+
+Everything above about how FaceMend treats your photos applies to the Android app too. The
+differences are only in which platform services it uses:
+
+- **On-device processing.** Every edit runs on your phone. No photo, and no data derived
+  from a photo, is sent to us, to Google or to anyone else for processing.
+- **Choosing photos and videos.** You pick them with the Android system Photo Picker, which
+  shares only the items you select. FaceMend cannot browse your gallery.
+- **Saving.** Edited photos and videos are saved to your device gallery. On Android 10 and
+  later this needs no permission. Location (GPS) data is removed from what the app exports.
+- **Downloaded models.** The optional Eraser model (about 200 MB) and the depth model used
+  by Relight are not inside the app download. The first time you use one of those features,
+  Google Play delivers the model to your device (Play Asset Delivery). This is a one-way
+  download to your phone: no photo and no personal data is sent as part of it.
+- **Purchases and subscriptions.** Subscriptions and the lifetime purchase are handled
+  entirely by **Google Play** (Google Play Billing). Google processes your payment and
+  manages your subscription; **we never receive your payment details**. Your purchase
+  entitlement is checked on your device. Google's handling of your purchase is governed by
+  [Google's Privacy Policy](https://policies.google.com/privacy). You can manage or cancel
+  a subscription in the **Google Play app → Payments & subscriptions → Subscriptions**.
+- **Ratings prompt.** The app may show Google Play's in-app review prompt. Any rating or
+  review you leave goes to Google Play, not to us.
+- **No account, no analytics, no ads.** The Android app has no FaceMend account, no
+  analytics, no advertising SDK or advertising ID, and no crash-reporting service. Its
+  Google Play data safety section says no data is collected or shared.
+
+**Permissions on Android:**
+
+- **Storage (write), Android 9 and older only** - to save your edited photos to the
+  gallery. Newer Android versions save without it.
+- **Detect screen capture, Android 14 and later** - so the app is told when you take a
+  screenshot of it and can show a short tip about saving the full-quality photo. The
+  screenshot itself is never read, recorded or sent anywhere.
+
+You can review and change permissions at any time in Android **Settings → Apps → FaceMend
+→ Permissions**.
+
 ## Changes to this policy
 
 If a future version of FaceMend ever changes how it handles your photos (for example, if a
@@ -109,3 +147,4 @@ Questions about this policy or your privacy? Email us at
 ---
 
 © 2026 FaceMend. This privacy policy applies to the FaceMend iOS app (`com.facemend.facemend`).
+It also applies to the FaceMend Android app on Google Play (`com.facemend.facemend`).
